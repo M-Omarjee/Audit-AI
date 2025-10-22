@@ -1,10 +1,12 @@
 # 🩺 AuditAI — AI-Assisted Clinical Audit & QI Platform
 
+<p align="center">
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Version-1.0.0-success)
 ![NHS-Inspired](https://img.shields.io/badge/Design-NHS%20Style-blue)
+</p>
 
 ---
 
@@ -71,10 +73,10 @@ AuditAI automates these steps, allowing clinicians to focus on what really matte
 
 ### 🔹 Streamlit App  
 *(Upload data, view compliance, and export instantly)*  
-![App Preview](assets/Streamlit Dashboard.png)
+![App Preview](assets/streamlit_dashboard.png)
 ### 🔹 Generated NHS-Style PDF  
 *(Automatically formatted compliance summary)*  
-![PDF Preview](assets/Audit PDF Generated.png)
+![PDF Preview](assets/audit_pdf.png)
 
 ---
 
