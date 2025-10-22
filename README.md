@@ -93,7 +93,7 @@ Then visit 👉 http://localhost:8501
 
 ---
 
-** 🧱 Project Structure
+## 🧱 Project Structure
 ```
 Audit-AI/
 ├── app/
@@ -109,7 +109,7 @@ Audit-AI/
 
 ---
 
-** 🩵 Future Roadmap
+## 🩵 Future Roadmap
 
 Add trend graphs and run-chart visualisation
 Integrate NICE guideline compliance mapping
