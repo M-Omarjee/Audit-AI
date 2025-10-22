@@ -111,7 +111,7 @@ Audit-AI/
 
 ## 🩵 Future Roadmap
 
-Add trend graphs and run-chart visualisation
-Integrate NICE guideline compliance mapping
-Deploy to Streamlit Cloud
-AI-based recommendation generation
+Add trend graphs and run-chart visualisation  
+Integrate NICE guideline compliance mapping  
+Deploy to Streamlit Cloud  
+AI-based recommendation generation  
