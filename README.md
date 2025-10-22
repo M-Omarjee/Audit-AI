@@ -92,6 +92,7 @@ streamlit run app/streamlit_app.py
 Then visit 👉 http://localhost:8501
 
 🧱 Project Structure
+```
 Audit-AI/
 ├── app/
 │   ├── streamlit_app.py        # Main UI
@@ -102,10 +103,11 @@ Audit-AI/
 ├── reports/                    # Auto-generated PDFs
 ├── requirements.txt
 └── README.md
+```
 
 🩵 Future Roadmap
 
  Add trend graphs and run-chart visualisation
  Integrate NICE guideline compliance mapping
  Deploy to Streamlit Cloud
- GPT-based recommendation generation
+ AI-based recommendation generation
