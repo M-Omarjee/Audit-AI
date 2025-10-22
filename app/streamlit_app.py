@@ -5,8 +5,8 @@ import streamlit as st
 import pandas as pd
 from report_utils import build_pdf, resolve_logo_path
 
-st.set_page_config(page_title="AuditIQ", layout="wide")
-st.title("AuditIQ — Clinical Audit & QI (MVP)")
+st.set_page_config(page_title="AuditAI", layout="wide")
+st.title("AuditAI — Clinical Audit & QI (MVP)")
 st.write("✅ Upload your dataset; we’ll auto-detect boolean-like columns and summarise everything.")
 
 # ----- helpers -----
