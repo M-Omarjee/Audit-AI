@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+.venv/
+env/
+venv/
+
+# Streamlit cache
+.streamlit/
+
+# Reports and outputs
+reports/
+*.pdf
+*.csv
+*.xlsx
+
+# System
+.DS_Store
+.idea/
+.vscode/
