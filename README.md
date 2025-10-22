@@ -71,11 +71,10 @@ AuditAI automates these steps, allowing clinicians to focus on what really matte
 
 ### 🔹 Streamlit App  
 *(Upload data, view compliance, and export instantly)*  
-![App Preview](https://via.placeholder.com/1000x520.png?text=AuditAI+Streamlit+Interface)
-
+![App Preview](assets/Streamlit Dashboard.png)
 ### 🔹 Generated NHS-Style PDF  
 *(Automatically formatted compliance summary)*  
-![PDF Preview](https://via.placeholder.com/1000x600.png?text=AuditAI+PDF+Report)
+![PDF Preview](assets/Audit PDF Generated.png)
 
 ---
 
