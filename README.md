@@ -9,7 +9,7 @@ A Streamlit app that turns a ward-level audit CSV into an NHS-styled PDF report 
 
 **🔗 Live demo:** [audit-ai-mo.streamlit.app](https://audit-ai-mo.streamlit.app)
 
-Built by a foundation doctor who got tired of writing the same audit recommendations by hand.
+Built by a resident doctor who got tired of writing the same audit recommendations by hand.
 
 ---
 
