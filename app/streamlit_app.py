@@ -80,7 +80,7 @@ def humanise_column_name(col: str) -> str:
     """Turn 'vte_done' into 'VTE assessment performed'-style readable text."""
     # Common audit-domain abbreviations that should stay uppercase
     UPPERCASE_TOKENS = {"vte", "dvt", "pe", "crp", "ecg", "wcc", "iv", "po",
-                        "im", "uti", "stat", "prn", "ct", "mri", "ed", "nhs"}
+                        "im", "uti", "stat", "prn", "ct", "mri", "ed", "nhs", "gmc"}
     parts = col.replace("-", "_").split("_")
     out = []
     for p in parts:

@@ -22,3 +22,6 @@ reports/
 .idea/
 .vscode/
 .env
+
+# Allow example datasets (override the *.csv rule above)
+!examples/*.csv

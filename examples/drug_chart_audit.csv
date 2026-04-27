@@ -1,0 +1,13 @@
+chart_id,allergy_documented,weight_recorded,prescriber_signature,prescriber_gmc_number,indication_documented,review_date_set,compliant
+DC001,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+DC002,Yes,No,Yes,No,No,No,No
+DC003,Yes,Yes,Yes,Yes,No,Yes,No
+DC004,No,No,Yes,Yes,Yes,No,No
+DC005,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+DC006,Yes,Yes,Yes,No,Yes,Yes,No
+DC007,Yes,No,Yes,Yes,Yes,Yes,No
+DC008,No,Yes,Yes,Yes,No,No,No
+DC009,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+DC010,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+DC011,Yes,No,Yes,No,Yes,No,No
+DC2,Yes,Yes,Yes,Yes,Yes,Yes,Yes

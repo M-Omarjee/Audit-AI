@@ -1,0 +1,16 @@
+patient_id,vte_risk_assessed,prophylaxis_prescribed,reassessed_at_24h,compliant
+P001,Yes,Yes,Yes,Yes
+P002,No,No,No,No
+P003,Yes,No,No,No
+P004,Yes,Yes,Yes,Yes
+P005,No,No,No,No
+P006,Yes,Yes,Yes,Yes
+P007,Yes,No,No,No
+P008,Yes,Yes,No,No
+P009,Yes,Yes,Yes,Yes
+P010,No,No,No,No
+P011,Yes,Yes,Yes,Yes
+P012,Yes,Yes,No,No
+P013,No,No,No,No
+P014,Yes,Yes,Yes,Yes
+P015,Yes,No,No,No
